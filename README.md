@@ -5,27 +5,6 @@ The project focuses on predicting the stock prices of three major US banks—JPM
 # Project Description
 The project aims to identify the most accurate ML and DL models for predicting stock prices by analyzing the impact of key economic indicators. This analysis serves as a foundation for creating actionable buy and sell signals, which are essential for effective risk management and investment decision-making.
 The study includes models such as Ridge Regression, Lasso Regression, Decision Tree Regression, Random Forest, XGBoost, LSTM, GRU, and CNN. The performance of these models was evaluated using metrics like Mean Squared Error (MSE), Root Mean Squared Error (RMSE), and R-squared (R²).
-# Installation
-To run the project, ensure you have Python 3.7 or above installed. Use the following commands to set up the environment and install the required libraries:
-bash
-Copy code
-# Clone the repository
-git clone https://github.com/yourusername/stock-price-prediction.git
-
-# Navigate to the project directory
-cd stock-price-prediction
-
-# Create a virtual environment
-python -m venv venv
-
-# Activate the virtual environment
-# Windows
-venv\Scripts\activate
-# Mac/Linux
-source venv/bin/activate
-
-# Install the required libraries
-pip install -r requirements.txt
 # Required Libraries
 •	numpy
 •	pandas
