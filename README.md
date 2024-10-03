@@ -15,6 +15,11 @@ The study includes models such as Ridge Regression, Lasso Regression, Decision T
 •	keras
 •	xgboost
 •	yfinance
+# How to Run the Notebook
+1.	Clone this repository to your local machine.
+2.	Ensure that you have Jupyter Notebook installed, or use Google Colab to open the .ipynb files.
+3.	Install all required libraries using pip install -r requirements.txt.
+4.	Run the notebook cells sequentially to replicate the analysis.
 # Usage
 1.	Data Preprocessing: Preprocess the dataset by executing the data_preprocessing.py script, which includes data cleaning, normalization, and feature engineering steps.
 2.	Model Training: Run the model_training.py script to train the selected ML and DL models.
