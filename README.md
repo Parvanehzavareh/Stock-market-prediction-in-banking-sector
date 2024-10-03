@@ -1,6 +1,6 @@
 # Stock Price Prediction Using Machine Learning and Deep Learning
 # Project Overview
-This repository contains the code and report for a class project titled "Application of Economic Indicators and Historical Data on US Bank Stocks: An ML and DL Forecasting Approach." The project was conducted as part of the MB120 - Applied and Big Data Analytics course at Kristiania University College during Spring 2024.
+This repository contains the code and Dataset for a class project titled "Application of Economic Indicators and Historical Data on US Bank Stocks: An ML and DL Forecasting Approach." The project was conducted as part of the MB120 - Applied and Big Data Analytics course at Kristiania University College during Spring 2024.
 The project focuses on predicting the stock prices of three major US banks—JPMorgan Chase, Bank of America, and Wells Fargo—using a combination of machine learning (ML) and deep learning (DL) models. The models were trained on a dataset comprising various economic indicators and historical stock prices collected over a twelve-year period from January 1, 2010, to January 1, 2022.
 # Project Description
 The project aims to identify the most accurate ML and DL models for predicting stock prices by analyzing the impact of key economic indicators. This analysis serves as a foundation for creating actionable buy and sell signals, which are essential for effective risk management and investment decision-making.
@@ -64,7 +64,7 @@ The evaluation revealed that the Ridge Regression model achieved the highest pre
 # Results
 Based on the analysis, the Ridge Regression model demonstrated the highest profitability when used to generate buy and sell signals. 
 # References
-The detailed methodology and analysis can be found in the project report, available in this repository. The project utilized various external resources, which are cited in the References section of the report.
+The detailed methodology and analysis can be found in the project report, available upon request. The project utilized various external resources, which are cited in the References section of the report.
 # License
 This project is for academic purposes only. Please contact for further inquiries.
 
